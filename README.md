@@ -21,3 +21,7 @@ Gratis statisk PWA med 10 helger, 200 ordplatser (169 unika ord), meningar, flas
 
 ## Testa lokalt
 I mappen: `python -m http.server 8000`, besök sedan `http://localhost:8000`.
+
+
+## Version 3 – fotografiskt bildstöd
+Emojier är borttagna ur ordövningarna. Ett litet antal realistiskt renderade bilder ingår som exempel (äpple, vatten, familj, hus). För övriga ord visas en neutral platshållare tills en vuxen laddar upp en egen bild via **Lägg till / byt bild** i ordlistan. Bilderna sparas lokalt på den aktuella enheten och följer inte med vid export av framsteg. Använd egna bilder som ni har rätt att använda. Bilderna är bildrenderingar, inte verifierade fotografier.
