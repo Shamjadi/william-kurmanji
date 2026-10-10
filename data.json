@@ -1,0 +1,1098 @@
+[
+  {
+    "id": 1,
+    "title": "Jag och familjen",
+    "words": [
+      {
+        "ku": "ez",
+        "sv": "jag"
+      },
+      {
+        "ku": "tu",
+        "sv": "du"
+      },
+      {
+        "ku": "ew",
+        "sv": "han/hon"
+      },
+      {
+        "ku": "em",
+        "sv": "vi"
+      },
+      {
+        "ku": "hûn",
+        "sv": "ni"
+      },
+      {
+        "ku": "dayik",
+        "sv": "mamma"
+      },
+      {
+        "ku": "bav",
+        "sv": "pappa"
+      },
+      {
+        "ku": "bira",
+        "sv": "bror"
+      },
+      {
+        "ku": "xwişk",
+        "sv": "syster"
+      },
+      {
+        "ku": "malbat",
+        "sv": "familj"
+      },
+      {
+        "ku": "nav",
+        "sv": "namn"
+      },
+      {
+        "ku": "zarok",
+        "sv": "barn"
+      },
+      {
+        "ku": "heval",
+        "sv": "vän"
+      },
+      {
+        "ku": "jin",
+        "sv": "kvinna"
+      },
+      {
+        "ku": "mêr",
+        "sv": "man"
+      },
+      {
+        "ku": "mezin",
+        "sv": "stor"
+      },
+      {
+        "ku": "piçûk",
+        "sv": "liten"
+      },
+      {
+        "ku": "baş",
+        "sv": "bra"
+      },
+      {
+        "ku": "erê",
+        "sv": "ja"
+      },
+      {
+        "ku": "na",
+        "sv": "nej"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Navê min William e.",
+        "sv": "Jag heter William."
+      },
+      {
+        "ku": "Tu çawa yî?",
+        "sv": "Hur mår du?"
+      },
+      {
+        "ku": "Ez baş im.",
+        "sv": "Jag mår bra."
+      },
+      {
+        "ku": "Ev dayika min e.",
+        "sv": "Det här är min mamma."
+      },
+      {
+        "ku": "Ev bavê min e.",
+        "sv": "Det här är min pappa."
+      },
+      {
+        "ku": "Ew birayê min e.",
+        "sv": "Han är min bror."
+      },
+      {
+        "ku": "Ew xwişka min e.",
+        "sv": "Hon är min syster."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hemma",
+    "words": [
+      {
+        "ku": "mal",
+        "sv": "hem/hus"
+      },
+      {
+        "ku": "ode",
+        "sv": "rum"
+      },
+      {
+        "ku": "derî",
+        "sv": "dörr"
+      },
+      {
+        "ku": "pace",
+        "sv": "fönster"
+      },
+      {
+        "ku": "mase",
+        "sv": "bord"
+      },
+      {
+        "ku": "kursî",
+        "sv": "stol"
+      },
+      {
+        "ku": "nivîn",
+        "sv": "säng"
+      },
+      {
+        "ku": "pirtûk",
+        "sv": "bok"
+      },
+      {
+        "ku": "qelem",
+        "sv": "penna"
+      },
+      {
+        "ku": "cil",
+        "sv": "kläder"
+      },
+      {
+        "ku": "sol",
+        "sv": "skor"
+      },
+      {
+        "ku": "telefon",
+        "sv": "telefon"
+      },
+      {
+        "ku": "televîzyon",
+        "sv": "tv"
+      },
+      {
+        "ku": "mitbax",
+        "sv": "kök"
+      },
+      {
+        "ku": "hundir",
+        "sv": "inne"
+      },
+      {
+        "ku": "derve",
+        "sv": "ute"
+      },
+      {
+        "ku": "li vir",
+        "sv": "här"
+      },
+      {
+        "ku": "li wir",
+        "sv": "där"
+      },
+      {
+        "ku": "paş",
+        "sv": "bakom"
+      },
+      {
+        "ku": "pêş",
+        "sv": "framför"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez li malê me.",
+        "sv": "Jag är hemma."
+      },
+      {
+        "ku": "Pirtûka min li vir e.",
+        "sv": "Min bok är här."
+      },
+      {
+        "ku": "Telefon li ku ye?",
+        "sv": "Var är telefonen?"
+      },
+      {
+        "ku": "Telefon li wir e.",
+        "sv": "Telefonen är där."
+      },
+      {
+        "ku": "Ez li derve me.",
+        "sv": "Jag är ute."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mat och dryck",
+    "words": [
+      {
+        "ku": "av",
+        "sv": "vatten"
+      },
+      {
+        "ku": "nan",
+        "sv": "bröd"
+      },
+      {
+        "ku": "şîr",
+        "sv": "mjölk"
+      },
+      {
+        "ku": "çay",
+        "sv": "te"
+      },
+      {
+        "ku": "sêv",
+        "sv": "äpple"
+      },
+      {
+        "ku": "moz",
+        "sv": "banan"
+      },
+      {
+        "ku": "hêk",
+        "sv": "ägg"
+      },
+      {
+        "ku": "goşt",
+        "sv": "kött"
+      },
+      {
+        "ku": "masî",
+        "sv": "fisk"
+      },
+      {
+        "ku": "penîr",
+        "sv": "ost"
+      },
+      {
+        "ku": "birinc",
+        "sv": "ris"
+      },
+      {
+        "ku": "şorbe",
+        "sv": "soppa"
+      },
+      {
+        "ku": "xwarin",
+        "sv": "äta/mat"
+      },
+      {
+        "ku": "vexwarin",
+        "sv": "dricka"
+      },
+      {
+        "ku": "birçî",
+        "sv": "hungrig"
+      },
+      {
+        "ku": "tî",
+        "sv": "törstig"
+      },
+      {
+        "ku": "xweş",
+        "sv": "god/trevlig"
+      },
+      {
+        "ku": "germ",
+        "sv": "varm"
+      },
+      {
+        "ku": "sar",
+        "sv": "kall"
+      },
+      {
+        "ku": "şîrîn",
+        "sv": "söt"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez birçî me.",
+        "sv": "Jag är hungrig."
+      },
+      {
+        "ku": "Ez tî me.",
+        "sv": "Jag är törstig."
+      },
+      {
+        "ku": "Ez av dixwazim.",
+        "sv": "Jag vill ha vatten."
+      },
+      {
+        "ku": "Ez sêv dixwim.",
+        "sv": "Jag äter ett äpple."
+      },
+      {
+        "ku": "Ev xwarin pir xweş e!",
+        "sv": "Den här maten är jättegod!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Kroppen och kläder",
+    "words": [
+      {
+        "ku": "ser",
+        "sv": "huvud"
+      },
+      {
+        "ku": "çav",
+        "sv": "öga"
+      },
+      {
+        "ku": "guh",
+        "sv": "öra"
+      },
+      {
+        "ku": "dev",
+        "sv": "mun"
+      },
+      {
+        "ku": "poz",
+        "sv": "näsa"
+      },
+      {
+        "ku": "dest",
+        "sv": "hand"
+      },
+      {
+        "ku": "tilî",
+        "sv": "finger"
+      },
+      {
+        "ku": "ling",
+        "sv": "ben/fot"
+      },
+      {
+        "ku": "por",
+        "sv": "hår"
+      },
+      {
+        "ku": "diran",
+        "sv": "tand"
+      },
+      {
+        "ku": "rû",
+        "sv": "ansikte"
+      },
+      {
+        "ku": "çîp",
+        "sv": "axel"
+      },
+      {
+        "ku": "kiras",
+        "sv": "skjorta/klänning"
+      },
+      {
+        "ku": "pantolon",
+        "sv": "byxor"
+      },
+      {
+        "ku": "sol",
+        "sv": "skor"
+      },
+      {
+        "ku": "çorap",
+        "sv": "strumpor"
+      },
+      {
+        "ku": "çepik",
+        "sv": "mössa/keps"
+      },
+      {
+        "ku": "reş",
+        "sv": "svart"
+      },
+      {
+        "ku": "spî",
+        "sv": "vit"
+      },
+      {
+        "ku": "sor",
+        "sv": "röd"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ev destê min e.",
+        "sv": "Det här är min hand."
+      },
+      {
+        "ku": "Du çavên min hene.",
+        "sv": "Jag har två ögon."
+      },
+      {
+        "ku": "Porê min reş e.",
+        "sv": "Mitt hår är svart."
+      },
+      {
+        "ku": "Solên min li ku ne?",
+        "sv": "Var är mina skor?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Skolan",
+    "words": [
+      {
+        "ku": "dibistan",
+        "sv": "skola"
+      },
+      {
+        "ku": "mamoste",
+        "sv": "lärare"
+      },
+      {
+        "ku": "şagirt",
+        "sv": "elev"
+      },
+      {
+        "ku": "ders",
+        "sv": "lektion"
+      },
+      {
+        "ku": "pirtûk",
+        "sv": "bok"
+      },
+      {
+        "ku": "defter",
+        "sv": "skrivhäfte"
+      },
+      {
+        "ku": "qelem",
+        "sv": "penna"
+      },
+      {
+        "ku": "çente",
+        "sv": "väska"
+      },
+      {
+        "ku": "mase",
+        "sv": "bord"
+      },
+      {
+        "ku": "kursî",
+        "sv": "stol"
+      },
+      {
+        "ku": "heval",
+        "sv": "vän"
+      },
+      {
+        "ku": "nivîsandin",
+        "sv": "skriva"
+      },
+      {
+        "ku": "xwendin",
+        "sv": "läsa/studera"
+      },
+      {
+        "ku": "pirs",
+        "sv": "fråga"
+      },
+      {
+        "ku": "bersiv",
+        "sv": "svar"
+      },
+      {
+        "ku": "rast",
+        "sv": "rätt"
+      },
+      {
+        "ku": "şaş",
+        "sv": "fel"
+      },
+      {
+        "ku": "hêsan",
+        "sv": "lätt"
+      },
+      {
+        "ku": "zor",
+        "sv": "svårt"
+      },
+      {
+        "ku": "ziman",
+        "sv": "språk"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez diçim dibistanê.",
+        "sv": "Jag går till skolan."
+      },
+      {
+        "ku": "Ev pirtûka min e.",
+        "sv": "Det här är min bok."
+      },
+      {
+        "ku": "Ez dixwînim.",
+        "sv": "Jag läser."
+      },
+      {
+        "ku": "Ez dinivîsim.",
+        "sv": "Jag skriver."
+      },
+      {
+        "ku": "Ev hêsan e.",
+        "sv": "Det här är lätt."
+      },
+      {
+        "ku": "Ev zor e.",
+        "sv": "Det här är svårt."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Saker jag gör",
+    "words": [
+      {
+        "ku": "çûn",
+        "sv": "gå/åka"
+      },
+      {
+        "ku": "hatin",
+        "sv": "komma"
+      },
+      {
+        "ku": "xwarin",
+        "sv": "äta"
+      },
+      {
+        "ku": "vexwarin",
+        "sv": "dricka"
+      },
+      {
+        "ku": "dîtin",
+        "sv": "se"
+      },
+      {
+        "ku": "gotin",
+        "sv": "säga"
+      },
+      {
+        "ku": "kirin",
+        "sv": "göra"
+      },
+      {
+        "ku": "lîstin",
+        "sv": "leka/spela"
+      },
+      {
+        "ku": "xwendin",
+        "sv": "läsa"
+      },
+      {
+        "ku": "nivîsandin",
+        "sv": "skriva"
+      },
+      {
+        "ku": "razan",
+        "sv": "sova"
+      },
+      {
+        "ku": "rûniştin",
+        "sv": "sitta"
+      },
+      {
+        "ku": "rabûn",
+        "sv": "resa sig/vakna"
+      },
+      {
+        "ku": "bezîn",
+        "sv": "springa"
+      },
+      {
+        "ku": "kenîn",
+        "sv": "skratta"
+      },
+      {
+        "ku": "girîn",
+        "sv": "gråta"
+      },
+      {
+        "ku": "zanîn",
+        "sv": "veta"
+      },
+      {
+        "ku": "xwestin",
+        "sv": "vilja"
+      },
+      {
+        "ku": "hezkirin",
+        "sv": "tycka om"
+      },
+      {
+        "ku": "axivîn",
+        "sv": "prata"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez diçim malê.",
+        "sv": "Jag går hem."
+      },
+      {
+        "ku": "Ez nan dixwim.",
+        "sv": "Jag äter bröd."
+      },
+      {
+        "ku": "Ez av vedixwim.",
+        "sv": "Jag dricker vatten."
+      },
+      {
+        "ku": "Ez dilîzim.",
+        "sv": "Jag leker/spelar."
+      },
+      {
+        "ku": "Ez nizanim.",
+        "sv": "Jag vet inte."
+      },
+      {
+        "ku": "Ez kurdî diaxivim.",
+        "sv": "Jag pratar kurdiska."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Känslor",
+    "words": [
+      {
+        "ku": "şad",
+        "sv": "glad"
+      },
+      {
+        "ku": "xemgîn",
+        "sv": "ledsen"
+      },
+      {
+        "ku": "westiyayî",
+        "sv": "trött"
+      },
+      {
+        "ku": "birçî",
+        "sv": "hungrig"
+      },
+      {
+        "ku": "tî",
+        "sv": "törstig"
+      },
+      {
+        "ku": "baş",
+        "sv": "bra"
+      },
+      {
+        "ku": "nexweş",
+        "sv": "sjuk"
+      },
+      {
+        "ku": "tirsiya",
+        "sv": "rädd"
+      },
+      {
+        "ku": "aciz",
+        "sv": "irriterad"
+      },
+      {
+        "ku": "bêzar",
+        "sv": "uttråkad"
+      },
+      {
+        "ku": "xweş",
+        "sv": "trevlig"
+      },
+      {
+        "ku": "hez",
+        "sv": "tycke"
+      },
+      {
+        "ku": "evîn",
+        "sv": "kärlek"
+      },
+      {
+        "ku": "kêfxweş",
+        "sv": "glad/nöjd"
+      },
+      {
+        "ku": "aram",
+        "sv": "lugn"
+      },
+      {
+        "ku": "pir",
+        "sv": "mycket"
+      },
+      {
+        "ku": "kêm",
+        "sv": "lite"
+      },
+      {
+        "ku": "hinek",
+        "sv": "lite/några"
+      },
+      {
+        "ku": "niha",
+        "sv": "nu"
+      },
+      {
+        "ku": "îro",
+        "sv": "idag"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez şad im.",
+        "sv": "Jag är glad."
+      },
+      {
+        "ku": "Ez westiyayî me.",
+        "sv": "Jag är trött."
+      },
+      {
+        "ku": "Ez birçî me.",
+        "sv": "Jag är hungrig."
+      },
+      {
+        "ku": "Tu çawa yî?",
+        "sv": "Hur mår du?"
+      },
+      {
+        "ku": "Ez îro baş im.",
+        "sv": "Jag mår bra idag."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Siffror och tid",
+    "words": [
+      {
+        "ku": "yek",
+        "sv": "ett"
+      },
+      {
+        "ku": "du",
+        "sv": "två"
+      },
+      {
+        "ku": "sê",
+        "sv": "tre"
+      },
+      {
+        "ku": "çar",
+        "sv": "fyra"
+      },
+      {
+        "ku": "pênc",
+        "sv": "fem"
+      },
+      {
+        "ku": "şeş",
+        "sv": "sex"
+      },
+      {
+        "ku": "heft",
+        "sv": "sju"
+      },
+      {
+        "ku": "heşt",
+        "sv": "åtta"
+      },
+      {
+        "ku": "neh",
+        "sv": "nio"
+      },
+      {
+        "ku": "deh",
+        "sv": "tio"
+      },
+      {
+        "ku": "îro",
+        "sv": "idag"
+      },
+      {
+        "ku": "sibê",
+        "sv": "imorgon"
+      },
+      {
+        "ku": "duh",
+        "sv": "igår"
+      },
+      {
+        "ku": "sibeh",
+        "sv": "morgon"
+      },
+      {
+        "ku": "şev",
+        "sv": "kväll/natt"
+      },
+      {
+        "ku": "roj",
+        "sv": "dag"
+      },
+      {
+        "ku": "hefte",
+        "sv": "vecka"
+      },
+      {
+        "ku": "meh",
+        "sv": "månad"
+      },
+      {
+        "ku": "sal",
+        "sv": "år"
+      },
+      {
+        "ku": "saet",
+        "sv": "klocka/timme"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez neh salî me.",
+        "sv": "Jag är nio år."
+      },
+      {
+        "ku": "Îro roja baş e.",
+        "sv": "Idag är en bra dag."
+      },
+      {
+        "ku": "Ez sibê diçim dibistanê.",
+        "sv": "Jag går till skolan imorgon."
+      },
+      {
+        "ku": "Saet çend e?",
+        "sv": "Vad är klockan?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Frågor och samtal",
+    "words": [
+      {
+        "ku": "çi",
+        "sv": "vad"
+      },
+      {
+        "ku": "kî",
+        "sv": "vem"
+      },
+      {
+        "ku": "ku",
+        "sv": "var"
+      },
+      {
+        "ku": "çima",
+        "sv": "varför"
+      },
+      {
+        "ku": "çawa",
+        "sv": "hur"
+      },
+      {
+        "ku": "kengî",
+        "sv": "när"
+      },
+      {
+        "ku": "çend",
+        "sv": "hur många"
+      },
+      {
+        "ku": "kîjan",
+        "sv": "vilken"
+      },
+      {
+        "ku": "erê",
+        "sv": "ja"
+      },
+      {
+        "ku": "na",
+        "sv": "nej"
+      },
+      {
+        "ku": "belkî",
+        "sv": "kanske"
+      },
+      {
+        "ku": "rast",
+        "sv": "rätt/sant"
+      },
+      {
+        "ku": "baş e",
+        "sv": "okej"
+      },
+      {
+        "ku": "spas",
+        "sv": "tack"
+      },
+      {
+        "ku": "silav",
+        "sv": "hej"
+      },
+      {
+        "ku": "xatirê te",
+        "sv": "hej då"
+      },
+      {
+        "ku": "bibore",
+        "sv": "ursäkta"
+      },
+      {
+        "ku": "dîsa",
+        "sv": "igen"
+      },
+      {
+        "ku": "hêdî",
+        "sv": "långsamt"
+      },
+      {
+        "ku": "zû",
+        "sv": "snabbt/tidigt"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ev çi ye?",
+        "sv": "Vad är det här?"
+      },
+      {
+        "ku": "Ew kî ye?",
+        "sv": "Vem är det?"
+      },
+      {
+        "ku": "Tu li ku yî?",
+        "sv": "Var är du?"
+      },
+      {
+        "ku": "Çima?",
+        "sv": "Varför?"
+      },
+      {
+        "ku": "Dîsa bêje.",
+        "sv": "Säg det igen."
+      },
+      {
+        "ku": "Hêdî biaxive.",
+        "sv": "Prata långsamt."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Jag använder kurmanji",
+    "words": [
+      {
+        "ku": "kurdî",
+        "sv": "kurdiska"
+      },
+      {
+        "ku": "swêdî",
+        "sv": "svenska"
+      },
+      {
+        "ku": "ziman",
+        "sv": "språk"
+      },
+      {
+        "ku": "peyiv",
+        "sv": "ord"
+      },
+      {
+        "ku": "hevok",
+        "sv": "mening"
+      },
+      {
+        "ku": "pirs",
+        "sv": "fråga"
+      },
+      {
+        "ku": "bersiv",
+        "sv": "svar"
+      },
+      {
+        "ku": "famkirin",
+        "sv": "förstå"
+      },
+      {
+        "ku": "zanîn",
+        "sv": "veta"
+      },
+      {
+        "ku": "axivîn",
+        "sv": "prata"
+      },
+      {
+        "ku": "guhdarîkirin",
+        "sv": "lyssna"
+      },
+      {
+        "ku": "gotin",
+        "sv": "säga"
+      },
+      {
+        "ku": "dîsa",
+        "sv": "igen"
+      },
+      {
+        "ku": "hêdî",
+        "sv": "långsamt"
+      },
+      {
+        "ku": "hinek",
+        "sv": "lite"
+      },
+      {
+        "ku": "pir",
+        "sv": "mycket"
+      },
+      {
+        "ku": "rast",
+        "sv": "rätt"
+      },
+      {
+        "ku": "şaş",
+        "sv": "fel"
+      },
+      {
+        "ku": "alîkarî",
+        "sv": "hjälp"
+      },
+      {
+        "ku": "spas",
+        "sv": "tack"
+      }
+    ],
+    "sentences": [
+      {
+        "ku": "Ez hinek kurdî dizanim.",
+        "sv": "Jag kan lite kurdiska."
+      },
+      {
+        "ku": "Ez kurdî hîn dibim.",
+        "sv": "Jag lär mig kurdiska."
+      },
+      {
+        "ku": "Ez fam nakim.",
+        "sv": "Jag förstår inte."
+      },
+      {
+        "ku": "Dîsa bêje.",
+        "sv": "Säg det igen."
+      },
+      {
+        "ku": "Hêdî biaxive.",
+        "sv": "Prata långsamt."
+      },
+      {
+        "ku": "Ev bi kurdî çi ye?",
+        "sv": "Vad heter det här på kurdiska?"
+      }
+    ]
+  }
+]
